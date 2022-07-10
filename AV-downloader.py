@@ -30,7 +30,7 @@ print("***********made by SO-ham**********")
 print("Enter the url from which you have to download.")
 url = input("URL:- ")
 format_input = int(input('Select the type of format you need:\n1)Audio\n2)Video\nPress the no. according to the need:\n'))
-download_path = str(input('Enter the file path to save the file to respective place\nDefault is C:\\Users\\soham\\Downloads:\n'))
+download_path = str(input('Enter the file path to save the file to respective place\nDefault is C:\\Users\\$username$\\Downloads:\n'))
 if (download_path == ''):
     download_path = 'C:\\Users\\soham\\Downloads'
 if (format_input == 1):
