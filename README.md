@@ -4,5 +4,5 @@
 If pytube gives any error just upgrade the version of pytube by running this command<br>
 <i>python -m pip install --upgrade pytube</i><br>
 or<br>
-<i>python3 -m pip install --upgrade pytube</i>
-<b>Change the username of your systme in the download path<b>
+<i>python3 -m pip install --upgrade pytube</i><br>
+<b>Change the username of your system in the download path<b>
